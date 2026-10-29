@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883290202549",
+    "project_id": "appaintm",
+    "storage_bucket": "appaintm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883290202549:android:0102b1db0965a3bd4a39fc",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883290202549-e6fqk9k9j6f55u2v4b8s20qmdrpg6thr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthomeai",
+            "certificate_hash": "27266608087927da95efe4796d81667f059554a5"
+          }
+        },
+        {
+          "client_id": "883290202549-079m4q4eblu82ofdegp22fps4nuu2vhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rMs3P4e4m7OgTT800FD3oe5RqCFfR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883290202549-079m4q4eblu82ofdegp22fps4nuu2vhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
